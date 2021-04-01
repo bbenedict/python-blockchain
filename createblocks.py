@@ -4,7 +4,7 @@ from Crypto.PublicKey import RSA
 from blockchain import Blockchain
 
 # This is a test case for creating a blockchain with python.
-# Alice wishes to send Eric some amount.  
+# Alice needs to periodically send Eric some amounts.  
 # She signs the transaction and adds it to the blockchain.
 
 # Create the public and private keys for Alice
